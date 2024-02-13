@@ -1,6 +1,6 @@
 # Predicting the Functionality of  Tanzanian Water Wells
 
-![Wells](./images/Tanzania Water Wells.jpg)
+![Alt text](https://github.com/Cngabu/dsc-phase-3-project/blob/main/images/Tanzania%20Water%20Wells.jpg)
 
 ## Overview
 
@@ -42,7 +42,7 @@ We first conducted exploratory data analysis. For modeling, we chose classificat
 The tuned random forest model was selected as the best model as it has the best accuracy scores with a training accuracy score of 0.894 and the highest validation accuracy score of 0.750. It also had less overfitting than the models that performed better on the training set accuracy. 
 
 
-![RF](.images/Random Forest Model.png)
+![Alt Text](.images/Random Forest Model.png)
 
 The most important features in predicting well function as depicted by our final model were
 
